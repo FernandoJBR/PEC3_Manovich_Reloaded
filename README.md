@@ -23,7 +23,7 @@ Por tanto, el objetivo de la hibridación de medios es representar de forma nove
 
 >Nos rodean ejemplos de híbridos de medios: los encontraremos en las interfaces de usuario, las aplicaciones web, las apps móviles, el diseño visual, el diseño interactivo, los efectos visuales, los medios locativos, los entornos interactivos, el arte digital y otros ámbitos de la cultura digital. **Manovich L. El software toma el mando. 2013. Barcelona, UOC**
 
-A continuación, voy a presentar dos casos que considero ejemplos de hibridación:
+A continuación, voy a presentar dos casos que considero ejemplos de hibridación para proceder a su análisis:
 
 * **El videojuego "The Division"**, como ejemplo de hibridación que nos ofrece nuevas formas de representar el mundo, aunque también contiene elementos de hibridación en la interfaz de usuario.
 * **Los sistemas integrados de navegación/conducción** en los vehículos, como ejemplo de hibridación en la interfaz del usuario.
