@@ -38,7 +38,9 @@ El videojuego motivo de este análisis, “The Division”, está basando en una
 
 >En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado. (Adell F. 2014)
 
-Efectivamente, se crea una hibridación entre los videojuegos, el cine y la literatura que hace que esta nueva experiencia que se vive con la fusión de estos medios no puede existir si se interactúa con los diferentes medios por separado.
+Efectivamente, se crea una hibridación entre los videojuegos, el cine y la literatura que hace que esta nueva experiencia que se vive con la fusión de estos medios no pueda existir si se interactúa con los diferentes medios por separado.
+
+
 
 
 
