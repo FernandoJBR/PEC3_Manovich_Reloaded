@@ -40,6 +40,17 @@ El videojuego motivo de este análisis, “The Division”, está basando en una
 
 Efectivamente, se crea una hibridación entre los videojuegos, el cine y la literatura que hace que esta nueva experiencia que se vive con la fusión de estos medios no pueda existir si se interactúa con los diferentes medios por separado.
 
+![HUD](https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1416880230970-LY7ZV1IJMW38G9QLR7Y2/img_thedivision.jpg?format=2500w)
+> Distintas interfaces propuestas para el HUD en la versión de desarrollo the "The Division"
+
+Respecto a la interfaz de usuario, el sistema nos sorprende con un HUD interactivo que se fusiona sobre las superficies en 3D de los objetos indicándonos el tipo de acción que podemos realizar. En algunos puntos concretos, el reloj inteligente que lleva el agente activa a I.S.A.C. (Intelligent System Analytic Computer) que mediante reconstrucción genera un holograma en 3 dimensiones posicional e interactivo que nos muestra con imágenes y audio lo que ocurrió en esa escena en un tiempo pasado concreto. ¿No estamos delante de una estética híbrida?
+>La nueva estética híbrida existe en infinidad de variaciones, pero su principio más básico es siempre el mismo: yuxtaponer estéticas visuales de distintos medios previamente diferenciadas dentro de una misma imagen. He aquí un ejemplo de cómo la lógica de la hibridez de medios reestructura gran parte de la cultura como un todo"(Manovich, 2013)
+
+![ECHO activated](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/gifholograma.gif)
+> Activación de un holograma por parte de un Agente
+
+![Inventario](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/inventario.JPG)
+> Gestión de inventario en tiempo real de un Agente, que está escuchando audios a la vez que revisa el listado de vídeos guardados
 
 
 
