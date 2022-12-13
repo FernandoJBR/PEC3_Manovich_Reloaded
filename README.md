@@ -34,6 +34,9 @@ A continuación, voy a presentar dos casos que considero ejemplos de hibridació
 
 Los videojuegos en sus comienzos, no eran mucho más que una remediación de los juegos clásicos. Cambiaba el medio y la forma de interactuar con ellos pero la mecánica era la misma. Poco a poco fueron evolucionando conforme lo hacía la tecnología, resultando cada vez más complejos mientras se iban añadiendo características de otros medios.
 
+![Virus](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/introduccion3.gif)
+> Cinemática sobre la variante del virus de la viruela
+
 El videojuego motivo de este análisis, “The Division”, está basando en una novela de Tom Clancy y es del tipo eRPG de mundo abierto. Ya desde el comienzo del videojuego sus cinemáticas y su narrativa nos ayudan a crear una experiencia totalmente inmersiva y a diferencia de otros videojuegos, la narrativa está totalmente integrada y se sucede continuamente mientras exploramos nuestro entorno y avanzamos en la trama. De esta manera, la sensación al jugarlo es la de estar viviendo un libro, jugando una película, en definitiva, estar formando parte de una experiencia totalmente cohesionada.
 
 >En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado. (Adell F. 2014)
