@@ -8,7 +8,7 @@
 
 
 ![Centauro](https://upload.wikimedia.org/wikipedia/commons/b/b6/Pella_Museum_--_Mosaic_02.jpg "Mosaico del siglo III a. C. expuesto en el Museo Arqueológico de Pela.")
-
+>**Centauro** "Mosaico del siglo III a. C. expuesto en el Museo Arqueológico de Pela." Explorer1940, CC BY-SA 4.0 via Wikimedia Commons
 
 
 ## Introducción
