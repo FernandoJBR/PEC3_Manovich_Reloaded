@@ -25,7 +25,7 @@ Por tanto, el objetivo de la hibridación de medios es representar de forma nove
 
 A continuación, voy a presentar dos casos que considero ejemplos de hibridación:
 
-* **El videojuego "The Division"**, como ejemplo de hibridación que nos ofrece nuevas formas de representar el mundo.
+* **El videojuego "The Division"**, como ejemplo de hibridación que nos ofrece nuevas formas de representar el mundo, aunque también contiene elementos de hibridación en la interfaz de usuario.
 * **Los sistemas integrados de navegación/conducción** en los vehículos, como ejemplo de hibridación en la interfaz del usuario.
 
 
