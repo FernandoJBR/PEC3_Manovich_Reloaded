@@ -66,7 +66,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Adell F. Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios [Internet]. 2014 [citado 2022 dic 13]. Available from:     http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ 
+* Adell F. Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios [Internet]. 2014 [citado 2022 dic 13]. Available from:     http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* The Division All Cutscenes (Game Movie) 1080p HD - YouTube [Internet]. [citado 2022 dic 14]. Available from: https://www.youtube.com/watch?v=dt0PxkYr-bQ
 
 
 ----
