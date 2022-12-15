@@ -55,7 +55,11 @@ Respecto a la interfaz de usuario, el sistema nos sorprende con un HUD interacti
 ![Inventario](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/inventario.JPG)
 > Gestión de inventario en tiempo real de un Agente, que está escuchando audios a la vez que revisa el listado de vídeos guardados
 
+**Conclusiones**
 
+He puesto a "The Division" como ejemplo de hibridación de videojuegos y cine, principalmente porque me impactó su modo historia y sus mecánicas, pero podía haber puesto muchos otros que hibridan los mismos medios (como la saga "Dead Space" o "God of War") y también películas que hibridan otros medios (Jumanji o Ready Player One son dos buenos ejemplos); y es que si echamos un vistazo a la gran mayoría de videojuegos actuales, pocos quedan con un planteamiento que se acerque exclusivamente a los orígenes de los videojuegos, a esos juegos que estaban simplemente remediados, a esos Space Invaders que divertían siendo simples videojuegos. Actualmente, ya no se entiende un videojuego, o al menos uno considerado como triple A, sin estar hibridado con otros medios, como por ejemplo el cine.
+
+>La hibridación de los medios es un proceso que "amenaza" la constitución de cada uno de los elementos por separado, el texto no se entiende igual desde que lo podemos manipular digitalmente más allá de la tipografía, lo mismo ocurre con las imágenes y el vídeo. (Adell F. 2014)
 
 
 ## Caso 2: La hibridación en los sistemas integrados de navegación/conducción
