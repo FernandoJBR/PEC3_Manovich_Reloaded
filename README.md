@@ -66,7 +66,7 @@ He puesto a "The Division" como ejemplo de hibridación de videojuegos y cine, p
 
 Los sistemas de conducción están a la orden del día en la mayoría de vehículos que se fabrican actualmente, con mayores o menores capacidades. Hemos pasado de una conducción puramente mecánica con ausencia casi total de cierta tecnología a otra más evolucionada que integra múltiples sistemas de asistencia a la conducción.
 
-Sin entrar en sistemas novedosos y complejos como el sistema Autopilot de Tesla, sí que me gustaría hablar de cómo los sistemas integrados de navegación y conducción (sí, ese mismo ordenador de a bordo y su navegador integrado en el salpicadero) han evolucionado hibridando la interfaz de usuario en primera instancia y últimamente hibridando también nuestra manera de percibir el mundo que nos rodea mientras estamos conduciendo.
+Sin entrar en sistemas novedosos y complejos como el sistema Autopilot de Tesla, sí que me gustaría hablar de cómo los sistemas integrados de navegación y conducción (sí, ese mismo ordenador de a bordo y su navegador integrado en el salpicadero) han evolucionado hibridando la interfaz de usuario en primera instancia y últimamente hibridando también nuestra manera de percibir el mundo que nos rodea, enriqueciéndolo mientras estamos conduciendo.
 
 
 ### Referencias y Bibliografía
