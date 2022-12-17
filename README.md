@@ -75,12 +75,32 @@ Casi sin darnos cuenta, la manera en que navegamos e interactuamos con este medi
 ![Tesla Voice Command](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/cold.JPG)
 > Ante la frase del conductor "Tengo frío", el sistema aumenta la temperatura del habitáculo a una que sea agradable para las personas que viajan en su interior. Fuente: Tesla "Discover: Voice Commands" - YouTube.
 
+Querría hablar también de otro dispositivo que está cada vez más integrado en los vehículos y que está dando un paso más en la fusión de medios y en su integración con el resto de dispositivos electrónicos integrados en el vehículo. Me estoy refiriendo al navegador, pero más concretamente, a una relativamente nueva funcionalidad que se aprovecha de la realidad aumentada para fusionar el medio natural que percibimos a través del parabrisas y la información disponible en nuestro ordenador de a bordo/navegador para crear un nuevo entorno hibridado de conducción "vitaminada", el **Head Up Display.**
+
+>Por contra (_refiriéndose a un ejemplo típico de multimedia_), en los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos.(Manovich, 2013)
+
+![HUD](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/imagen8521_NM8522_MG7780654.jpeg)
+> Imagen proyectada sobre el parabrisas que se fusiona con el entorno real e incluye elementos 2D y elementos 3D, que nos informan de la velocidad máxima de la vía, de la velocidad actual, la distancia del vehículo que nos precede, la posibilidad de alcance, un pequeño mapa de navegación y nuestra próxima salida de la vía. En definitiva, un HUD que mediante realidad aumentada modifica nuestra propia realidad y la enriquece con información relevante para la conducción. ¿Estamos ante una hibridación de la interfaz o estamos ante una nueva forma de ver el mundo?
+
+Considero este ejemplo como una nueva forma de representar el mundo con su estética híbrida, donde por un lado tenemos la información que nos ofrecen los medios integrados en el vehículo y por otro lado el plano físico _"que se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno". (Manovich, 2013)_
+
+![Mercedes Clase S 2021](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/NavegadorHUD_6.gif)
+> Mercedes Clase S. En la pantalla interactiva nos encontramos con una imagen real captada por las cámaras del vehículo junto con los modelos 3D de las indicaciones a seguir del navegador, un mapa interactivo de la zona y los mandos del sistema de climatización, todo integrado en el mismo medio.
+
+![Mercedes Clase S 2021](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/NavegadorHUD.gif)
+> Mercedes Clase S. Ejemplo de Head Up Display con Realidad Aumentada.
+
+![Mercedes Clase S 2021](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/NavegadorHUD_7.gif)
+> Mercedes Clase S. Ejemplo de Head Up Display con Realidad Aumentada.
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Adell F. Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios [Internet]. 2014 [citado 2022 dic 13]. Available from:     http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 * The Division All Cutscenes (Game Movie) 1080p HD - YouTube [Internet]. [citado 2022 dic 14]. Available from: https://www.youtube.com/watch?v=dt0PxkYr-bQ
 * Discover: Voice Commands - YouTube [Internet]. [citado 2022 dic 17]. Available from: https://www.youtube.com/watch?v=oDruklAJFmA
+* Nuevo Mercedes Clase S 2021: pantalla HEAD-UP loca con REALIDAD AUMENTADA (77 pulgadas en diagonal) - YouTube [Internet]. [citado 2022 dic 17]. Available from: https://www.youtube.com/watch?v=DCgy3askMcM
+
 
 
 ----
