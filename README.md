@@ -106,6 +106,7 @@ Por tanto, como podemos apreciar en el análisis de los ejemplos mostrados, la h
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Manovich, Lev. (2007). **Understanding Hybrid Media** [Internet]. [citado 2022 dic 18]. Available from: http://manovich.net/index.php/projects/understanding-hybrid-media
 * Adell F. Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios [Internet]. 2014 [citado 2022 dic 13]. Available from:     http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 * The Division All Cutscenes (Game Movie) 1080p HD - YouTube [Internet]. [citado 2022 dic 14]. Available from: https://www.youtube.com/watch?v=dt0PxkYr-bQ
 * Discover: Voice Commands - YouTube [Internet]. [citado 2022 dic 17]. Available from: https://www.youtube.com/watch?v=oDruklAJFmA
