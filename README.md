@@ -115,4 +115,4 @@ Por tanto, como podemos apreciar en el análisis de los ejemplos mostrados, la h
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia ...
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
