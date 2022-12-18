@@ -85,7 +85,7 @@ Querría hablar también de otro dispositivo que está cada vez más integrado e
 Considero este ejemplo como una nueva forma de representar el mundo con su estética híbrida, donde por un lado tenemos la información que nos ofrecen los medios integrados en el vehículo y por otro lado el plano físico _"que se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno". (Manovich, 2013)_
 
 ![Mercedes Clase S 2021](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/NavegadorHUD_6.gif)
-> Mercedes Clase S. En la pantalla interactiva nos encontramos con una imagen real captada por las cámaras del vehículo fusionada con los modelos 3D dinámicos de las indicaciones a seguir del navegador, el mapa interactivo de la zona y los mandos del sistema de climatización, todo integrado en el mismo medio.
+> Mercedes Clase S. En la pantalla interactiva nos encontramos con una imagen real captada por las cámaras del vehículo fusionada con los modelos 3D dinámicos de las indicaciones a seguir del navegador, el mapa interactivo de la zona y los mandos del sistema de climatización, todo integrado en el mismo metamedio. _"Así pues, desde la óptica actual, el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear híbridos" (Manovich, 2013)_
 
 ![Mercedes Clase S 2021](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/NavegadorHUD.gif)
 > Mercedes Clase S. Ejemplo de Head Up Display con Realidad Aumentada.
