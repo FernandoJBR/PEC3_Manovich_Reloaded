@@ -93,6 +93,16 @@ Considero este ejemplo como una nueva forma de representar el mundo con su esté
 ![Mercedes Clase S 2021](https://github.com/FernandoJBR/PEC3_Manovich_Reloaded/blob/main/NavegadorHUD_7.gif)
 > Mercedes Clase S. Ejemplo de Head Up Display con Realidad Aumentada.
 
+**Conclusiones finales**
+
+Como ya predijeron Alan Kay y Adele Goldberg, los ordenadores (aquel "metamedio" que contendría "un amplio abanico de medios ya existentes y otros aún por inventar") se han utilizado para crear nuevos tipos de medios y para hibridar otros ya existentes. Una vez que los medios se "traducen" a software y empiezan a interaccionar entre ellos, mutan y producen nuevos híbridos en un proceso de ampliabilidad permanente.
+
+>Cualquiera puede inventar nuevos algoritmos y técnicas que funcionen con los tipos de datos de medios y formatos de archivo más comunes. Estos inventos pueden difundirse al instante por internet, sin la necesidad de contar con cuantiosos recursos, como era el caso en el siglo xx, para introducir un nuevo dispositivo comercial de medios con nuevas funcionalidades o un nuevo formato de medios.(Manovich, 2013)
+
+Por tanto, como podemos apreciar en el análisis de los ejemplos mostrados, la hibridación nos ofrece una nueva forma de interactuar con los medios, de fusionar técnicas y objetos, de crear nuevas combinaciones de una forma que antes era imposible, cuando dependían del hardware original y de sus encorsetadas formas de acceso. Como en cualquier momento pueden surgir y surgen nuevos algoritmos y se crear nuevos medios, las combinaciones de medios que se pueden dar son prácticamente infinitas.
+
+>Tras la primera fase de la invención del metamedio ordenador, pasamos a la próxima fase de la «hibridez» y la «remezclabilidad profunda» de los medios. «Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.»
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
